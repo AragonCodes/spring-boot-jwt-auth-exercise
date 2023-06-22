@@ -1,0 +1,1 @@
+Project from tutorial: https://www.bezkoder.com/spring-boot-jwt-authentication/
